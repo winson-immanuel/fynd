@@ -22,6 +22,6 @@ FYND is an AI-powered smart retail trolley system designed to modernize supermar
 FYND aims to reduce checkout waiting time, improve customer shopping experience, and bring futuristic automation into retail stores.
 
 ## Developed By
-Winson Immanuel S
-B.Tech Artificial Intelligence & Data Science
+Winson Immanuel S |
+B.Tech Artificial Intelligence & Data Science| 
 Francis Xavier Engineering College
